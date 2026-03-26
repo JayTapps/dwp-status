@@ -1,4 +1,4 @@
-owner: jaythrussell  # your GitHub username
+owner: JayTapps
 repo: dwp-status
 
 sites:
@@ -6,9 +6,8 @@ sites:
     url: https://dogwalkerpro.jtapps.co.uk/version.json
 
 assignees:
-  - jaythrussell
+  - JayTapps
 
 status-website:
-  cname: status.jtapps.co.uk  # or leave blank if no custom domain
+  cname: status.jtapps.co.uk
   name: Dog Walker Pro Status
-
