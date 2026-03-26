@@ -4,19 +4,19 @@
     "url": "https://dogwalkerpro.jtapps.co.uk/version.json",
     "icon": "https://icons.duckduckgo.com/ip3/dogwalkerpro.jtapps.co.uk.ico",
     "slug": "dog-walker-pro-api",
-    "status": "down",
-    "uptime": "61.69%",
-    "uptimeDay": "61.69%",
-    "uptimeWeek": "61.69%",
-    "uptimeMonth": "61.69%",
-    "uptimeYear": "61.69%",
-    "time": 217,
-    "timeDay": 217,
-    "timeWeek": 217,
-    "timeMonth": 217,
-    "timeYear": 217,
+    "status": "up",
+    "uptime": "4.11%",
+    "uptimeDay": "4.11%",
+    "uptimeWeek": "4.11%",
+    "uptimeMonth": "4.11%",
+    "uptimeYear": "4.11%",
+    "time": 254,
+    "timeDay": 254,
+    "timeWeek": 254,
+    "timeMonth": 254,
+    "timeYear": 254,
     "dailyMinutesDown": {
-      "2026-03-26": 120
+      "2026-03-26": 316
     }
   }
 ]
