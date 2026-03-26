@@ -1,4 +1,4 @@
-owner: JayTapps
+owner: jayTapps
 repo: dwp-status
 
 sites:
@@ -6,7 +6,7 @@ sites:
     url: https://dogwalkerpro.jtapps.co.uk/version.json
 
 assignees:
-  - JayTapps
+  - jayTapps
 
 status-website:
   cname: status.jtapps.co.uk
